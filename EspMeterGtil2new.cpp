@@ -52,8 +52,8 @@ float TempF;
 float Resistance;
 float steinhart;
 
-const char* ssid = "A.pc";
-const char* password = "3000123458";
+const char* ssid = "xxx";
+const char* password = "xxx";
 
 WiFiServer server(80);
 
